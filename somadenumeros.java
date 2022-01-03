@@ -23,7 +23,7 @@ public class somadenumeros {
 		if(resto == 0) {
 			System.out.println("esse numero é par");
 		}else {
-			System.out.println("esse numero é impar");
+			System.out.println("esse numero é impar.");
 		}
 	
 	}
