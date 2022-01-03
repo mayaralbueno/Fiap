@@ -17,7 +17,7 @@ exercícios realizado no curso fundamentos java.
   
      
 <div align="center">
-  <img  src="https://img.shields.io/badge/Java-5B4638?style=for-the-badge&logo=java&logoColor=white">
+  <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  
 </div>
 
