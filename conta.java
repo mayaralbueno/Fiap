@@ -24,25 +24,22 @@ public class conta {
 		
 		
 	}
-	public int getAgencia() {
-		return agencia;
-	}
-	public void setAgencia(int agencia) {
-		this.agencia = agencia;
-	}
-	public int getNumero() {
-		return numero;
-	}
-	public void setNumero(int numero) {
-		this.numero = numero;
-	}
-	public double getSaldo() {
-		return saldo;
-	}
-	public void setSaldo(double saldo) {
-		this.saldo = saldo;
-	}
+	 public void depositar (double valor) {
+		 this.saldo += valor;
+		  
 
+			/*
+			 * criação de metodos que vão ser acessador pela classe teste
+			 */
+
+		 
+	 }
+	 public void retirar(double valor) {
+		 this.saldo -= valor;
+	 }
+	 public double verificarSaldo() {
+		 return this.saldo;
+	 }
 
 
 
