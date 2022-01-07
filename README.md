@@ -2,7 +2,7 @@
 exercícios realizado no curso fundamentos java.
 
  <p align="center">
-<img src="https://media.giphy.com/media/nzvnS3VZKuOV2WRVmu/giphy.gif" style="width: 55%;">
+<img src="https://media.giphy.com/media/nzvnS3VZKuOV2WRVmu/giphy.gif" style="width: 35%;">
 </p>
 
 
