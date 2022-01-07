@@ -1,6 +1,12 @@
 # Fiap
 exercícios realizado no curso fundamentos java.
 
+ <p align="center">
+<img src="https://media.giphy.com/media/nzvnS3VZKuOV2WRVmu/giphy.gif" style="width: 55%;">
+</p>
+
+
+
 
 <h1  align="center">Fiap📑 ⚒</H1>
 
